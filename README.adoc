@@ -1,0 +1,6 @@
+Ruby Talk
+=========
+
+Slides for the ruby talk.
+
+The full presentation can be seen https://docs.google.com/presentation/d/1vdOzxtWXbnHrbkntcLjcsgkp4ZB3u7TIK3W_FsFrxkI[here].
